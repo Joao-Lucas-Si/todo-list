@@ -1,3 +1,3 @@
-# React + Typescript + Tailwind.css
+# todo list
 
-Basic boilerplate Repl for really fast prototyping!
+lista de tarefas feito com react e tailwind
